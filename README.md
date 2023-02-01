@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Isaiah Rain R. Camitoc</h1>
 <h3 align="center">A passionate BI Developer from Cavite, Philippines</h3>
+<img align="right" alt="Analytics" width="300" src="https://media3.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e47q1o982piimga5jrgu8voodxn87r92r8jecfixlpi&rid=giphy.gif&ct=g">
+
+- 🔭 I’m currently working on **Dashboard for Hololive VTubers**
 
 - 🌱 I’m currently learning **Power BI, Microsoft Azure, Google Cloud**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ircamitoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ircamitoc" height="30" width="40" /></a>
+<a href="https://instagram.com/cotimaaaac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cotimaaaac" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ircamitoc&show_icons=true&locale=en" alt="ircamitoc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ircamitoc&" alt="ircamitoc" /></p>
+
