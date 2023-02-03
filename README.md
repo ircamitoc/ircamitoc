@@ -20,3 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ircamitoc&theme=tokyonight" alt="ircamitoc" /></p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cotimaaaac&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=cotimaaaac&redirect=true)
