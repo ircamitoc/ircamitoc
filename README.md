@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Metrics Dashboard for Hololive VTubers**
 
-- 🌱 I’m currently learning **Power BI, Microsoft Azure, Google Cloud**
+- 🌱 I’m currently learning **Google Cloud**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
