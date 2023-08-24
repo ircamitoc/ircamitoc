@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isaiah Rain R. Camitoc</h1>
 <h3 align="center">A passionate IT student from Cavite, Philippines</h3><hr>
-<img align="right" alt="Analytics" width="250" src="https://media3.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e47q1o982piimga5jrgu8voodxn87r92r8jecfixlpi&rid=giphy.gif&ct=g">
+<!--- <img align="right" alt="Analytics" width="250" src="https://media3.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e47q1o982piimga5jrgu8voodxn87r92r8jecfixlpi&rid=giphy.gif&ct=g"> --->
 
 - 🔭 I’m currently working on **Metrics Dashboard for Hololive VTubers**
 
