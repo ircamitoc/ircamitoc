@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Metrics Dashboard for Hololive VTubers**
 
-- 🌱 I’m currently learning **ERN stack, Zoho, and Deluge**
+- 🌱 I’m currently learning **MERN Stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
